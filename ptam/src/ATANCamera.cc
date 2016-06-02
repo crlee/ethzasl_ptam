@@ -9,6 +9,7 @@ using namespace std;
 using namespace CVD;
 //using namespace GVars3;
 
+
 ATANCamera::ATANCamera(string sName)
 {
   // The camera name is used to find the camera's parameters in a GVar.
